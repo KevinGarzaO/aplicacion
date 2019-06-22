@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KevinGarzaO/aplicacion/issues"
   },
-  "homepage": "https://github.com/KevinGarzaO/aplicacion#readme"
+  "homepage": "https://github.com/KevinGarzaO/aplicacion#readme",
+  "dependencies": {
+    "server": "^1.0.19"
+  }
 }
